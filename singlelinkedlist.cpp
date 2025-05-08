@@ -5,4 +5,9 @@ using namespace std;
 class Node
 {
 
-}
+};
+
+class List
+{
+
+}:
